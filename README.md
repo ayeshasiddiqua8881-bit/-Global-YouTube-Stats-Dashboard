@@ -29,6 +29,13 @@ An interactive decomposition tree breaking down total category ranks, allowing d
 - Data modeling & relationships
 - Interactive visuals: radar chart, decomposition tree, bubble chart, KPI cards
 - Data storytelling & dashboard design
+
+## 📷 Preview
+
+*(Add screenshots here, e.g.)*
+```
+![Page 1](screenshots/page1.png)
+![Page 2](screenshots/page2.png)
 ```
 
 ## 🚀 About This Project
