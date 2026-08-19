@@ -34,7 +34,7 @@ An interactive decomposition tree breaking down total category ranks, allowing d
 
 *(Add screenshots here, e.g.)*
 ```
-![Page 1](Screenshot 2026-08-20 001614.png)
+![Page 1]"C:\Users\Ayesha Abdul Kalam\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-08-20 001614.png"
 ![Page 2](screenshots/page2.png)
 ```
 
