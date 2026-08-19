@@ -30,14 +30,6 @@ An interactive decomposition tree breaking down total category ranks, allowing d
 - Interactive visuals: radar chart, decomposition tree, bubble chart, KPI cards
 - Data storytelling & dashboard design
 
-## 📷 Preview
-
-*(Add screenshots here, e.g.)*
-```
-![Page 1]"C:\Users\Ayesha Abdul Kalam\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-08-20 001614.png"
-![Page 2](screenshots/page2.png)
-```
-
 ## 🚀 About This Project
 
 Built as part of my ongoing journey toward becoming an AI Engineer, this project helped strengthen my data visualization, DAX, and analytical storytelling skills.
